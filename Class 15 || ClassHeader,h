@@ -1,0 +1,12 @@
+#ifndef CLASS15_BURRITO_H
+#define CLASS15_BURRITO_H
+
+
+class Class15_Burrito
+{
+    public:
+        Class15_Burrito();
+
+};
+
+#endif // CLASS15_BURRITO_H
