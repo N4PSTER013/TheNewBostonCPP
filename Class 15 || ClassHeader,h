@@ -1,11 +1,11 @@
-#ifndef CLASS15_BURRITO_H
+#ifndef CLASS15_BURRITO_H // Header File - for function prototypes and variables
 #define CLASS15_BURRITO_H
 
 
 class Class15_Burrito
 {
     public:
-        Class15_Burrito();
+        Class15_Burrito(); // function prototype for the constructor
 
 };
 
